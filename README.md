@@ -1,7 +1,7 @@
 👋 Hi, I’m @analyticalrahul1205
 👀 I’m interested in data analytics, machine learning, and AI.
 🌱 I’m currently learning SQL for data science and advanced statistical modeling.
-💞️ I’m looking to collaborate on open-source AI projects and data visualization tools.
+ I’m looking to collaborate on open-source AI projects and data visualization tools.
 📫 How to reach me: You can reach me via email at therahul5432@gmail.com or connect with me on LinkedIn www.linkedin.com/in/rahul-kumar-070282215
 😄 Pronouns: He/Him
 
